@@ -14,7 +14,7 @@ Trang
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
-    <title>Thông tin Võ sinh - Đồng Ngọc Hưng</title>
+    <title>Thông tin Võ sinh - Trịnh Hồng Tiên</title>
     <style>
         :root {
             --primary-color: #2c3e50;
